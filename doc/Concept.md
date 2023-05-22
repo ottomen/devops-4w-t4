@@ -8,15 +8,34 @@ The startup team prepares the concept of the project and chooses tools for the l
 
 ## Introduction
 
+### minikube
+
+minikube implements a local Kubernetes cluster on macOS, Linux, and Windows.
+
+### Resources usage:
+
+- 2 CPUs or more
+- 2GB of free memory
+- 0GB of free disk space
+
 ## Characteristics
 
-| area | minikube | kind (Kubernetes IN Docker) | k3d   |
-| ------------ | -------- | ----------------------------| ----- |
-|  |  |  |  |
-
+| area | minikube | kind (Kubernetes IN Docker) | k3d |
+| ---- | -------- | --------------------------- | --- |
+|      |          |                             |     |
 
 ## Pros and Cons
 
+### minikube
+
+Pros: Easy CLI, 
+
+### minikube
+
 ## Demo
+
+### minikube
+
+[![minikube demo](https://asciinema.org/a/DJtlXA9WBecJCTs9YECmVzs5l.svg)](https://asciinema.org/a/DJtlXA9WBecJCTs9YECmVzs5l)
 
 ## Recap
